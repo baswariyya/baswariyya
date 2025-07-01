@@ -5,6 +5,6 @@
 🚀 Learning Full Stack Development,ML,DSA
 🌱 Always curious and building something cool 
 
-📫 Reach me at: rabibaswariyya@gmail.com
+📫 Reach me at: rabiathulbaswariyya@gmail.com
 
 <!-- More coming soon! Stay tuned. -->
